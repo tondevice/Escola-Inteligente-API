@@ -20,6 +20,7 @@ public class Aluno {
     private String nome;
     private String sobrenome;
     private String telefone;
+    
 
     public boolean isAtivo() {
         return this.ativo != null && this.ativo;
